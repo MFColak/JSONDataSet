@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Camel",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Artiodactyla",
+      "family": "Camelidae"
+    },
+    "location": "Throughout the Middle East",
+    "speed": {
+      "metric": "64",
+      "imperial": "40"
+    },
+    "diet": "Herbivore",
+    "lifespan": "40 - 50 years",
+    "image": "https://images.pexels.com/photos/1718258/pexels-photo-1718258.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Cat",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Carnivora",
+      "family": "Felidae"
+    },
+    "location": "Worldwide",
+    "speed": {
+      "metric": "48",
+      "imperial": "30"
+    },
+    "diet": "Omnivore",
+    "lifespan": "15 years",
+    "image": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Cougar",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Carnivora",
+      "family": "Felidae"
+    },
+    "location": "North America",
+    "speed": {
+      "metric": "45",
+      "imperial": "30"
+    },
+    "diet": "Carnivore",
+    "lifespan": "10 - 20 years",
+    "image": "https://images.pexels.com/photos/53001/cougar-mountain-lion-puma-concolor-big-cat-53001.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Cow",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae"
+    },
+    "location": "Worldwide",
+    "speed": {
+      "metric": "40",
+      "imperial": "25"
+    },
+    "diet": "Herbivore",
+    "lifespan": "12 - 20 years",
+    "image": "https://images.pexels.com/photos/458991/pexels-photo-458991.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Deer",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Artiodactyla",
+      "family": "Cervidae"
+    },
+    "location": "North America, Europe, Asia",
+    "speed": {
+      "metric": "70",
+      "imperial": "43"
+    },
+    "diet": "Herbivore",
+    "lifespan": "10 - 20 years",
+    "image": "https://images.pexels.com/photos/34231/antler-antler-carrier-fallow-deer-hirsch.jpg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Dog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Carnivora",
+      "family": "Canidae"
+    },
+    "location": "Worldwide",
+    "speed": {
+      "metric": "50",
+      "imperial": "31"
+    },
+    "diet": "Carnovore",
+    "lifespan": "15 years",
+    "image": "https://images.pexels.com/photos/434046/pexels-photo-434046.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+  },
+  {
+    "name": "Duck",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Anseriformes",
+      "family": "Anatidae"
+    },
+    "location": "Worldwide",
+    "speed": {
+      "metric": "55",
+      "imperial": "34"
+    },
+    "diet": "Omnivore",
+    "lifespan": "4 - 8 years",
+    "image": "https://images.pexels.com/photos/209035/pexels-photo-209035.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Falconiformes",
+      "family": "Accipitridae"
+    },
+    "location": "North America, Europe, Asia",
+    "speed": {
+      "metric": "160",
+      "imperial": "100"
+    },
+    "diet": "Omnivore",
+    "lifespan": "15 - 30 years",
+    "image": "https://images.pexels.com/photos/73825/osprey-adler-bird-of-prey-raptor-73825.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Elephant",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Proboscidea",
+      "family": "Elephantidae"
+    },
+    "location": "Africa, Middle East, South Asia",
+    "speed": {
+      "metric": "40",
+      "imperial": "25"
+    },
+    "diet": "Herbivore",
+    "lifespan": "55 - 70 years",
+    "image": "https://images.pexels.com/photos/66898/elephant-cub-tsavo-kenya-66898.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Otter",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Carnivora",
+      "family": "Mustelidae"
+    },
+    "location": "Worldwide",
+    "speed": {
+      "metric": "11",
+      "imperial": "7"
+    },
+    "diet": "Carnivore",
+    "lifespan": "15-25 years",
+    "image": "https://images.pexels.com/photos/57466/otter-animal-close-up-portrait-57466.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Parrot",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Psittaciformes",
+      "family": "Psittacidae"
+    },
+    "location": "South America, Africa, Asia, Australia",
+    "speed": {
+      "metric": "24",
+      "imperial": "15"
+    },
+    "diet": "Omnivore",
+    "lifespan": "40 - 80 years",
+    "image": "https://images.pexels.com/photos/53360/macaw-parrot-bird-pet-53360.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "name": "Puma",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "order": "Carnivora",
+      "family": "Felidae"
+    },
+    "location": "Americas",
+    "speed": {
+      "metric": "45",
+      "imperial": "30"
+    },
+    "diet": "Carnivore",
+    "lifespan": "10 - 15 years",
+    "image": "https://images.pexels.com/photos/53001/cougar-mountain-lion-puma-concolor-big-cat-53001.jpeg?auto=compress&cs=tinysrgb&w=600"
+  }
+]
